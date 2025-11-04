@@ -1,1 +1,1 @@
-# Assingment1_lab
+# Salon Reservation System
